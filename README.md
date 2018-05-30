@@ -7,5 +7,5 @@ Steps:
 - Download the project from Github
 - Have all the files in the same directory
 - If working from the Python IDLE, simply run the entertainment_center.py program
-- If working from the MAC OS Terminal, go to directory that contains all files and run the "python entertainment_center.py" (without quotes)
+- If working from the MAC OS Terminal, go to directory that contains all files and enter the "python entertainment_center.py" (command without quotes)
 - This should open up a browser with the website and movie content displayed 
